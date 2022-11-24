@@ -1,0 +1,4 @@
+{
+    "rooms": ["Rm_1100A", "Rm_1100D"],
+    "outpath": "data/raw"
+}
